@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **elador2020@gmail.com**
 
-- 📄 My CV [https://docs.google.com/document/d/17eTCAUBKE8y4Qoq8yMqjSCb77740CB3I5a7ZJI10IT0/edit?usp=sharing](https://docs.google.com/document/d/17eTCAUBKE8y4Qoq8yMqjSCb77740CB3I5a7ZJI10IT0/edit?usp=sharing)
+- 📄 [My CV](https://docs.google.com/document/d/17eTCAUBKE8y4Qoq8yMqjSCb77740CB3I5a7ZJI10IT0/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a big Hip Hop and One Piece fan :)**
 
