@@ -11,7 +11,7 @@
 
 - 📄 [My CV](https://docs.google.com/document/d/17eTCAUBKE8y4Qoq8yMqjSCb77740CB3I5a7ZJI10IT0/edit?usp=sharing)
 
-- ⚡ Fun fact - **I'm a big fan of Hip-Hop music and One Piece 🤙🏼 **
+- ⚡ Fun fact - **I'm a big fan of Hip-Hop music and One Piece 🤙🏼**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
