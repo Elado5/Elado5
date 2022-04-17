@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [a fullstack (SQL-Express-NodeJS-React) project for a client (demo link)](http://proj4.shenkar-tech.co.il/)
 
+- Another fun side project I'm working on - [a 'Wordle' in Hebrew](https://master.dv0sh0ec7qoic.amplifyapp.com/)
+
 - 💬 Ask me about **React, NodeJS, SQL, CSS/SCSS**
 
 - 📫 How to reach me **elador2020@gmail.com**
