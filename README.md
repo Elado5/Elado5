@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, NodeJS, SQL, CSS/SCSS**
 
-- 📫 How to reach me **elador2020@gmail.com**
+- 📫 How to reach me **elad725@gmail.com**
 
 - 📄 [My CV](https://docs.google.com/document/d/17eTCAUBKE8y4Qoq8yMqjSCb77740CB3I5a7ZJI10IT0/edit?usp=sharing)
 
