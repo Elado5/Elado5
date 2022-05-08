@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elado5&label=Profile%20views&color=0e75b6&style=flat" alt="elado5" /> </p>
 
-- 🔭 I’m currently working on [a fullstack (SQL-Express-NodeJS-React) project for a client (demo link)](http://proj4.shenkar-tech.co.il/)
+- 🔭 I worked on [a fullstack (SQL-Express-NodeJS-React) project for a client (demo link)](http://proj4.shenkar-tech.co.il/)
 
-- 🧩 Another fun side project I'm working on - ['Wordle' in Hebrew](https://master.dv0sh0ec7qoic.amplifyapp.com/)
+- 🧩 Fun side projects I worked on - ['Wordle' in Hebrew](https://master.dv0sh0ec7qoic.amplifyapp.com/) & [DrawIt! (online draw&guess game for 2 players)](http://elad.shenkar-tech.co.il/)
 
 - 💬 Ask me about **React, NodeJS, SQL, CSS/SCSS**
 
@@ -13,7 +13,7 @@
 
 - 📄 [My CV](https://docs.google.com/document/d/17eTCAUBKE8y4Qoq8yMqjSCb77740CB3I5a7ZJI10IT0/edit?usp=sharing)
 
-- ⚡ Fun fact - **I'm a big fan of Hip-Hop music and One Piece 🤙🏼**
+- ⚡ Fun fact - **I'm a big fan of Hip-Hop music and Manga 🤙🏼**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
