@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elado5&label=Profile%20views&color=0e75b6&style=flat" alt="elado5" /> </p>
 
+- 🎓 I graduated from Shenkar college with a Practical Software Engineer diploma with great excellence (95+ average). 
+
 - 🔭 I worked on [a fullstack (SQL-Express-NodeJS-React) project for a client (demo link)](http://proj4.shenkar-tech.co.il/)
 
 - 🧩 Fun side projects I worked on - ['Wordle' in Hebrew](https://master.dv0sh0ec7qoic.amplifyapp.com/) & [DrawIt! (online draw&guess game for 2 players)](http://elad.shenkar-tech.co.il/)
