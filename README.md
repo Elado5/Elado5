@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **elad725@gmail.com**
 
-- 📄 [My LinkedIn]([https://docs.google.com/document/d/17eTCAUBKE8y4Qoq8yMqjSCb77740CB3I5a7ZJI10IT0/edit?usp=sharing](https://www.linkedin.com/in/elad-or-4165b01a5/))
+- 📄 [My LinkedIn]([https://www.linkedin.com/in/elad-or-4165b01a5/])
 
 - ⚡ Fun fact - **I'm a big fan of Hip-Hop music and Manga 🤙🏼**
 
