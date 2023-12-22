@@ -5,17 +5,17 @@
 
 - 🎓 I graduated from Shenkar college with a Practical Software Engineer diploma with great excellence (95+ average). 
 
-- 🔭 I worked on [a fullstack (SQL-Express-NodeJS-React) project for a client (demo link)](http://proj4.shenkar-tech.co.il/)
+- 🧑🏻‍💻 I have a year of work experince as a developer and have done projects for big clients.
 
-- 🧩 Fun side projects I worked on - ['Wordle' in Hebrew](https://master.dv0sh0ec7qoic.amplifyapp.com/) & [DrawIt! (online draw&guess game for 2 players)](http://elad.shenkar-tech.co.il/)
+- 🧩 Fun side project I worked on - ['Wordle' in Hebrew](https://master.dv0sh0ec7qoic.amplifyapp.com/) 
 
-- 💬 Ask me about **React, NodeJS, SQL, CSS/SCSS**
+- 💬 Ask me about **React, NodeJS, SQL, CSS/SCSS**,\
 
 - 📫 How to reach me **elad725@gmail.com**
 
 - 📄 [My LinkedIn](https://www.linkedin.com/in/elad-or-4165b01a5/)
 
-- ⚡ Fun fact - **I'm a big fan of Hip-Hop music and Manga 🤙🏼**
+- ⚡ Fun fact - **I'm a Hip-Hop music and Anime enjoyer 🤙🏼**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
